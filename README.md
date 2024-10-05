@@ -6,6 +6,11 @@ This project explores multiple machine learning models to predict heart disease 
 
 The dataset contains various health metrics, which are used as features to predict whether a person has heart disease or not. The preprocessing steps handle missing values and ensure the data is ready for modeling.
 
+## Visualization
+
+The following chart shows the variation of age for each target class (heart disease presence):
+
+![Variation of Age for each target class](./output.png)
 ## Models Used
 
 The following models are implemented and evaluated for the prediction task:
